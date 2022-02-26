@@ -1,1 +1,1 @@
-# mtba.shop
+In recent years, the number of people shopping online has increased tremendously. Despite this, the number of people who still have a bad attitude towards shopping online is too high to be underestimated. We needed to make a simple and useful site where people can shop easily and safely without leaving their homes, especially during this pandemic period.
